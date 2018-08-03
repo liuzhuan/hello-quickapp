@@ -2,7 +2,7 @@
 
 引入自定义组件
 
-```html
+```xml
 <import name="comp" src="./comp"></import>
 
 <template>
